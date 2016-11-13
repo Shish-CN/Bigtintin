@@ -216,7 +216,7 @@ function config_shadowsocks(){
 
         "137":"shadowsockspwd",
 
-    "443":"shadowsockspwd"
+        "443":"shadowsockspwd"
 
     },
 
